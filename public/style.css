@@ -11,6 +11,14 @@ body {
     max-width: 550px;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.grey {
+    color: #918E9B;
+}
+
 nav {
     height: 70px;
     display: flex;
@@ -38,4 +46,17 @@ nav {
 
 .hero--text {
     margin-top: 0px;
+}
+
+.card {
+    width: 175px;
+}
+
+.card--image {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.card--star {
+    height: 14px;
 }
